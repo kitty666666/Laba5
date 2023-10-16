@@ -1,0 +1,15 @@
+C:\учоооба\сурпоо\Laba5\labochka5\bin\Debug\net6.0\labochka5.exe
+C:\учоооба\сурпоо\Laba5\labochka5\bin\Debug\net6.0\labochka5.deps.json
+C:\учоооба\сурпоо\Laba5\labochka5\bin\Debug\net6.0\labochka5.runtimeconfig.json
+C:\учоооба\сурпоо\Laba5\labochka5\bin\Debug\net6.0\labochka5.dll
+C:\учоооба\сурпоо\Laba5\labochka5\bin\Debug\net6.0\labochka5.pdb
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.csproj.AssemblyReference.cache
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.GeneratedMSBuildEditorConfig.editorconfig
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.AssemblyInfoInputs.cache
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.AssemblyInfo.cs
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.csproj.CoreCompileInputs.cache
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.dll
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\refint\labochka5.dll
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.pdb
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\labochka5.genruntimeconfig.cache
+C:\учоооба\сурпоо\Laba5\labochka5\obj\Debug\net6.0\ref\labochka5.dll
