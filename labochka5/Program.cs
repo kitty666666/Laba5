@@ -14,5 +14,6 @@ class Program
         double average = (number1 + number2) / 2.0;
 
         Console.WriteLine("Среднее значение: " + average);
+        Console.WriteLine("Добра и позитива");
     }
 }
